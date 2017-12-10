@@ -10,4 +10,4 @@ el tamaño de la pantalla.
 Esto lo logramos condicionando con un media querie el cambio de imagen de fondo mediante la reducción de tamaño de la pantalla.
 
 
-![Imagen 1](http://dektop/retos-images/kiteen-night.jpg "Kitten 1")
+![Imagen 1](http://desktop/retos-images/kiteen-night.jpg "Kitten 1")
